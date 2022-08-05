@@ -179,8 +179,11 @@ body{
  
  .insta{
      margin-left: 3vh;
+     border-radius: 50px;
+     height: 64px;
      
  }
+ 
  footer{
      background-color: #424242;
      display: flex;
